@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsebaek)](https://hits.seeyoufarm.com)  
 
-[다시보기](https://github.com/sebaek/replay)
+[동영상 다시보기](https://github.com/sebaek/replay)
 
 <!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sebaek?theme=light&font=Noto%20Sans%20KR)
