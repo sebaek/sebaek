@@ -1,5 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsebaek)](https://hits.seeyoufarm.com)  
 
+<br />
+
+[강사 소개 (작업중)](https://sebaek.github.io/)
+<br />
+<br />
+<br />
 [동영상 다시보기](https://github.com/sebaek/replay)
 
 <!--
