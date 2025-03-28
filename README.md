@@ -4,11 +4,11 @@
 
 <br />
 
-[강사 소개 (작업중)](https://sebaek.github.io/)
+[👨🏻 강사 소개](https://sebaek.github.io/)
 <br />
 <br />
 <br />
-[동영상 다시보기](https://github.com/sebaek/replay)
+[📺 강의 보기](https://github.com/sebaek/replay)
 
 <!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sebaek?theme=light&font=Noto%20Sans%20KR)
