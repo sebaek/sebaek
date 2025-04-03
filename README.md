@@ -2,7 +2,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsebaek)](https://hits.seeyoufarm.com)  
 -->
 
-[![Hits](https://hits.sh/github.com/sebaek/sebaek.svg?view=today-total)](https://hits.sh/github.com/sebaek/sebaek/)
+[![Hits](https://hits.sh/github.com/sebaek.svg?view=today-total)](https://hits.sh/github.com/sebaek/)
+
 <br />
 
 <!--
